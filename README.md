@@ -49,9 +49,9 @@ For this module we will be using [the Python programming language](https://www.p
 
 ## Notes
 1. [Machine learning](notes/learning.md)
-2. [Python fundamentals](notebooks/python-fundamentals.ipynb)
-3. [Simple Linear Regression](notebooks/simple-linear-regression.ipynb)
-4. [Getting Started with Tensorflow](notebooks/tensorflow-getting-started.ipynb)
+2. [Python fundamentals](https://github.com/emerging-technologies/emerging-technologies.github.io/blob/master/notebooks/python-fundamentals.ipynb)
+3. [Simple Linear Regression](https://github.com/emerging-technologies/emerging-technologies.github.io/blob/master/notebooks/simple-linear-regression.ipynb)
+4. [Getting Started with Tensorflow](https://github.com/emerging-technologies/emerging-technologies.github.io/blob/master/notebooks/tensorflow-getting-started.ipynb)
 
 
 ## Problems
