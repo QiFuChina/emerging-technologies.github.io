@@ -45,3 +45,16 @@ On completion of this module the learner will be able to:
 
 ## Language
 For this module we will be using [the Python programming language](https://www.python.org/).
+
+
+## Notes
+1. [Machine learning](notes/learning.md)
+2. [Python fundamentals](notebooks/python-fundamentals.ipynb)
+3. [Simple Linear Regression](notebooks/simple-linear-regression.ipynb)
+4. [Getting Started with Tensorflow](notebooks/tensorflow-getting-started.ipynb)
+
+
+## Problems
+
+1. [Python fundamentals](problems/python-fundamentals.md)
+2. [MNIST data](problems/digits.md)
