@@ -14,5 +14,5 @@ Output the third image in the training set to the console.
 Do this by representing any pixel value less than 128 as a full stop and any other pixel value as a hash symbol.
 
 
-## Output the image files as PNGs
+## 3. Output the image files as PNGs
 Use Python to output the image files as PNGs, saving them in a subfolder in your repository.
