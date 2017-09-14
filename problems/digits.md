@@ -1,7 +1,7 @@
 # Problems - Read Digits Image Files
 These problems relate to the famous [MNIST](http://yann.lecun.com/exdb/mnist/) data set.
 Save your work as a Python file, or a collection of Python files.
-Create a reposittory on [GitHub](https://github.com/) to store the files, complete with a README.
+Create a repository on [GitHub](https://github.com/) to store the files, complete with a README.
 The dataset is in quite a compact format, and must be manipulated for us to investigate it.
 
 

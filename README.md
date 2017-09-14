@@ -1,6 +1,6 @@
 # Emerging Technologies
 This module will introduce the student to new and emerging technologies in computing.
-Technologies such as new programming languages, new types of data stuctures, new types of software infrastructure, and new communications prototcols will be investigated.
+Technologies such as new programming languages, new types of data structures, new types of software infrastructure, and new communications protocols will be investigated.
 
 ## Lecturer
 Ian McLoughlin
@@ -36,7 +36,7 @@ On completion of this module the learner will be able to:
 
 ### Data analysis
 - Comparison of current data analytics infrastructures.
-- Consideration of emerging data analytics infrastrucutres.
+- Consideration of emerging data analytics infrastructures.
 - Refactoring of data.
 
 ### Emerging standards

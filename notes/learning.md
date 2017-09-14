@@ -25,7 +25,7 @@ Source: [Noam Chomsky - Can Machines Think?](https://www.youtube.com/watch?v=Ex9
 
 Bonus material: [Noam Chomsky & Marvin Minsky on Artificial Intelligence](https://www.youtube.com/watch?v=x878W3E5mAg#t=42m35s)
 
-There is no one definition of artificial intelligence that satisfies everyone, and discussions on artificial intelligence often end in philisophical observations and semantic arguments.
+There is no one definition of artificial intelligence that satisfies everyone, and discussions on artificial intelligence often end in philosophical observations and semantic arguments.
 
 
 
@@ -59,30 +59,30 @@ def gcd(a, b):
 
 - Now consider instead something quite complex: driving a car.
 - Can we write a function to do this task?
-- We'll suppose the function will be called on an infitite loop, say every 1000th of a second. At each call the function should return the action to take to safely drive the car.
+- We'll suppose the function will be called on an infinite loop, say every 1000th of a second. At each call the function should return the action to take to safely drive the car.
 
 ## Outputs
 
 ![Car Interface](../images/car-interface.png)
 
-- The outputs of the function are fairly straight-forward.
+- The outputs of the function are straight-forward.
 - The user interface for a car mainly comprises of a steering wheel, an accelerator, and a brake. We'll assume the car is an automatic and we won't worry about the handbrake or turning signals or lights.
 - We can measure the turning of the steering wheel in degrees, with zero degrees meaning the steering wheel is straight, -90 meaning the wheel has a quarter turn counter-clockwise and 90 meaning it has a quarter turn clockwise, etc.
 - We can measure each of the accelerator and brake in terms of how hard they are pressed on a linear scale from 0 to 100. If we are not pressing the pedal we'll say that's 0, and at a full press it's 100. 50 means we half press it.
-- So the output of our function will be a triple, e.g. (-180, 0, 20) meaning turn the wheel to -180 degrees, don't press the accelerator at all, and press the break to 20%.
+- So, the output of our function will be a triple, e.g. (-180, 0, 20) meaning turn the wheel to -180 degrees, don't press the accelerator at all, and press the break to 20%.
 
 
 ## Inputs
 
 - The inputs to the function are also somewhat straight-forward.
-- First of all, the current positions of the steering wheel, break and accelerator are relevant inputs. We don't want to go from 100 accelerator to 100 break in 1 millisecond.
-- In fact, we probably need to use the array of positions from the past minute or soas inputs to give a smooth driving experience. Either way, while it's a lot of data, it's not very complex.
+- First, the current positions of the steering wheel, break and accelerator are relevant inputs. We don't want to go from 100 on the accelerator to 100 on the break in 1 millisecond.
+- In fact, we probably need to use the array of positions from the past minute or so, as inputs to give a smooth driving experience. Either way, while it's a lot of data, it's not very complex.
 
 
 ![View from driver's seat](../images/drivers-seat-view.jpg)
 
 
-- The main input you would imagine we need is the view from the drivers seat. This can be provided by a digital camera (or an array of cameras). The camera will give us a big array of pixels (millions of them). Each pixel will have a red value (say, between 0 and 255), a blue value, and a green value. These are just small integers. While there are a lot of them, again, they're not very complex.
+- The main input you would imagine we need is the view from the driver's seat. This can be provided by a digital camera (or an array of cameras). The camera will give us a big array of pixels (millions of them). Each pixel will have a red value (say, between 0 and 255), a blue value, and a green value. These are just small integers. While there are a lot of them, again, they're not very complex.
 - We can go one step further in that we can use lots of sensors placed on the outside of the car to gauge how close the car is to outside objects, and again we'll got lots of numbers.
 
 
