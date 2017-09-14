@@ -1,5 +1,5 @@
 # Learning
-In 1956 a conference was held at Dartmouth College in New Hampshire.
+In 1956, a conference was held at Dartmouth College in New Hampshire.
 The proposal was as follows.
 
 > We propose that a 2 month, 10 man study of artificial intelligence be carried out during the summer of 1956 at Dartmouth College in Hanover, New Hampshire. The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. An attempt will be made to find how to make machines use language, form abstractions and concepts, solve kinds of problems now reserved for humans, and improve themselves.
