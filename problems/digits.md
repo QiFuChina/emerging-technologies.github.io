@@ -1,12 +1,12 @@
-# Problems - Read Digits Image Files
+# Problem sheet: Read the MNIST data files
 These problems relate to the famous [MNIST](http://yann.lecun.com/exdb/mnist/) data set.
 Save your work as a Python file, or a collection of Python files.
-Create a repository on [GitHub](https://github.com/) to store the files, complete with a README.
-The dataset is in quite a compact format, and must be manipulated for us to investigate it.
+Please them in a single repository on [GitHub](https://github.com/), complete with a README.
+The files are in a bespoke format, as described on the [website](http://yann.lecun.com/exdb/mnist/).
 
 
-## 1. Read the image files
-Download the image and label files, have Python decompress them and read them byte by byte into appropriate data structures in memory.
+## 1. Read the data files
+Download the image and label files. Have Python decompress and read them byte by byte into appropriate data structures in memory.
 
 
 ## 2. Output an image to the console
@@ -16,3 +16,9 @@ Do this by representing any pixel value less than 128 as a full stop and any oth
 
 ## 3. Output the image files as PNGs
 Use Python to output the image files as PNGs, saving them in a subfolder in your repository.
+Name the images in the format `train-XXXXX-Y.png` or `test-XXXXX-Y.png` where `XXXXX` is the image number (where it occurs in the data file) and `Y` is its label.
+For instance, the five-thousandth training image is labelled 2, so its file name should be `train-05000-2.png`.
+See below for an example of it.
+Commit these image files to GitHub.
+
+![5000th training image labelled 2](../images/05000-2.png)
