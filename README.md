@@ -1,7 +1,7 @@
 # Emerging Technologies
 
 This is the landing page of the module Emerging Technologies at [GMIT](http://www.gmit.ie/).
-The module is given to students of the [B.Sc. (Hons) in Software Development](https://www.gmit.ie/software-development/bachelor-science-computing-software-development).
+The module is given to students of the [B.Sc. (Hons) in Software Development](https://www.gmit.ie/software-development/bachelor-science-honours-software-development).
 
 
 ## Lecturer
