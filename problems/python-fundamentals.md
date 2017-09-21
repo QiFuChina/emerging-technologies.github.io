@@ -1,4 +1,4 @@
-# Problems - Python
+# Problem set: Python fundamentals
 These are a few problems from around the internet to learn the fundamentals of [Python](https://www.python.org/).
 Create a repository on [GitHub](https://github.com/) to store your answers, complete with a README.
 

@@ -1,4 +1,4 @@
-# Problem sheet: Read the MNIST data files
+# Problem set: Read the MNIST data files
 These problems relate to the famous [MNIST](http://yann.lecun.com/exdb/mnist/) data set.
 Save your work as a Python file, or a collection of Python files.
 Please them in a single repository on [GitHub](https://github.com/), complete with a README.
