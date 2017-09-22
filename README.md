@@ -24,6 +24,15 @@ I can be contacted by email at [ian.mcloughlin@gmit.ie](mailto:ian.mcloughlin@gm
 2. [MNIST data sets](problems/digits.md)
 
 
+## Submissions
+
+Use the following links to submit the repositories containing your solutions to the assessment materials for this course.
+Note that you can submit these links at any time before the relevant deadlines.
+The last commit made to a given repository before the deadline will be taken as your submission.
+
+1. [Submit Python fundamentals problem sheet repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNFVLMzNUQUMxMlBITTE1QVJYUlVVR1ozRi4u)
+
+
 ## Assessment
 
 | Type                                  | Weight |
