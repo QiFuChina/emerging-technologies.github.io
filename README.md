@@ -1,18 +1,13 @@
 # Emerging Technologies
 
-This is the landing page of the module Emerging Technologies at [GMIT](http://www.gmit.ie/).
-The module is given to students of the [B.Sc. (Hons) in Software Development](https://www.gmit.ie/software-development/bachelor-science-honours-software-development).
-
-
-## Lecturer
-
-The lecturer of the module is [Ian McLoughlin (ianmcloughlin.github.io)](https://ianmcloughlin.github.io).
-I can be contacted by email at [ian.mcloughlin@gmit.ie](mailto:ian.mcloughlin@gmit.ie).
+This is the landing page of the module Emerging Technologies given to students of the [B.Sc. (Hons) in Software Development](https://www.gmit.ie/software-development/bachelor-science-honours-software-development) at [GMIT](http://www.gmit.ie/).
+The lecturer is [Ian McLoughlin (ianmcloughlin.github.io)](https://ianmcloughlin.github.io).
+You can contact me at [ian.mcloughlin@gmit.ie](mailto:ian.mcloughlin@gmit.ie).
 
 
 ## Notes
 
-1. [Machine learning](notes/learning.md)
+1. [Introduction to machine learning](notes/learning.md)
 2. [Python fundamentals](https://github.com/emerging-technologies/emerging-technologies.github.io/blob/master/notebooks/python-fundamentals.ipynb)
 3. [Simple Linear Regression](https://github.com/emerging-technologies/emerging-technologies.github.io/blob/master/notebooks/simple-linear-regression.ipynb)
 4. [Getting Started with Tensorflow](https://github.com/emerging-technologies/emerging-technologies.github.io/blob/master/notebooks/tensorflow-getting-started.ipynb)
@@ -24,17 +19,25 @@ I can be contacted by email at [ian.mcloughlin@gmit.ie](mailto:ian.mcloughlin@gm
 2. [MNIST data sets](problems/digits.md)
 
 
-## Submissions
 
-Use the following links to submit the repositories containing your solutions to the assessment materials for this course.
-Note that you can submit these links at any time before the relevant deadlines.
-The last commit made to a given repository before the deadline will be taken as your submission.
-Note you will be asked to enter your GMIT account details to access the submission forms if you are not already logged in.
+## Submit CA
+Use the links in the table below to submit your solutions to the assessment materials by the deadlines displayed.
+Each submission is a repository link, which you can submit at any time before the deadline.
+The last commit made to the repository before the deadline will be taken as the submission.
+You will be asked to enter your GMIT account details to access the submission forms if you are not already logged in.
 
-1. [Submit Python fundamentals problem sheet repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNFVLMzNUQUMxMlBITTE1QVJYUlVVR1ozRi4u)
+| Submission link | Deadline |
+| ----------------|----------|
+| [Submit Python fundamentals problem sheet repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNFVLMzNUQUMxMlBITTE1QVJYUlVVR1ozRi4u) | 6th October 2017, 24:00 |
+| Problem Sheet TBC | TBC |
+| Problem Sheet TBC | TBC |
+| Problem Sheet TBC | TBC |
+| Project TBC       | TBC |
 
 
-## Assessment
+## Assessment information
+The module will be fully assessed through continuous assessment - there is no final exam.
+This is broken down as follows.
 
 | Type                                  | Weight |
 | --------------------------------------|--------|
@@ -42,10 +45,14 @@ Note you will be asked to enter your GMIT account details to access the submissi
 | Infrastructures and analytics project |   40%  |
 | New technologies presentation         |   20%  |
 
+The programming project will consist of four problem sets submitted throughout the module.
+These will inform the infrastructures and analytics project, which will be a single cohesive submission.
+Finally, students will present their project at the end of the semester.
+
 
 ## Language
 
-For this module we will be using [the Python programming language](https://www.python.org/).
+For this module we will be using the [Python programming language](https://www.python.org/).
 
 
 ## Module description
@@ -80,4 +87,3 @@ On completion of this module the learner will be able to:
 ### Emerging standards
 - Review of existing web standards and protocols.
 - Introduction to emerging web standards and protocols.
-
