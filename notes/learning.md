@@ -98,7 +98,7 @@ def gcd(a, b):
 - Instead, we rely on supervised learning.
 - We start with a set of inputs for which we know the outputs we want.
 - We then train a model with these input-output pairs.
-- We do it by using a very generic function (or set of functions) that can be molded to mimic a whole load of other functions depending on how we train them.
-- We train them by giving them the input-output pairs and having them tweak themselves to give (at least approximatley) the given output when provided with the given input.
+- We do it by using a very generic function (or set of functions) that can be moulded to mimic a whole load of other functions depending on how we train them.
+- We train them by giving them the input-output pairs and having them tweak themselves to give (at least approximately) the given output when provided with the given input.
 
 > A computer program learns from experience E, with respect to some task T, and some performance measure P, if its performance on T as measured by P improves with experience E. - *Tom Mitchell*

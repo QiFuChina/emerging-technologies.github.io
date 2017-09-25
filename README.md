@@ -1,6 +1,6 @@
 # Emerging Technologies
 
-This is the landing page of the module Emerging Technologies given to students of the [B.Sc. (Hons) in Software Development](https://www.gmit.ie/software-development/bachelor-science-honours-software-development) at [GMIT](http://www.gmit.ie/).
+This is the course page for the module Emerging Technologies given to students of the [B.Sc. (Hons) in Software Development](https://www.gmit.ie/software-development/bachelor-science-honours-software-development) at [GMIT](http://www.gmit.ie/).
 The lecturer is [Ian McLoughlin (ianmcloughlin.github.io)](https://ianmcloughlin.github.io).
 You can contact me at [ian.mcloughlin@gmit.ie](mailto:ian.mcloughlin@gmit.ie).
 
