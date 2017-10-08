@@ -8,10 +8,10 @@ You can contact me at [ian.mcloughlin@gmit.ie](mailto:ian.mcloughlin@gmit.ie).
 ## Notes
 
 1. [Introduction to machine learning](notes/learning.md)
-2. [Python fundamentals](https://github.com/emerging-technologies/emerging-technologies.github.io/blob/master/notebooks/python-fundamentals.ipynb)
-3. [Simple Linear Regression](https://github.com/emerging-technologies/emerging-technologies.github.io/blob/master/notebooks/simple-linear-regression.ipynb)
-4. [Gradient descent](https://github.com/emerging-technologies/emerging-technologies.github.io/blob/master/notebooks/gradient-descent.ipynb)
-5. [Getting Started with Tensorflow](https://github.com/emerging-technologies/emerging-technologies.github.io/blob/master/notebooks/tensorflow-getting-started.ipynb)
+2. [Python fundamentals](notebooks/python-fundamentals.ipynb)
+3. [Simple Linear Regression](notebooks/simple-linear-regression.ipynb)
+4. [Gradient descent](notebooks/gradient-descent.ipynb)
+5. [Getting Started with Tensorflow](notebooks/tensorflow-getting-started.ipynb)
 
 
 ## Problem sets
