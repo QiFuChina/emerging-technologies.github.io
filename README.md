@@ -29,8 +29,8 @@ You will be asked to enter your GMIT account details to access the submission fo
 
 | Submission link | Deadline |
 | ----------------|----------|
-| [Submit Python fundamentals problem sheet repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNFVLMzNUQUMxMlBITTE1QVJYUlVVR1ozRi4u) | 6th October 2017, 24:00 |
-| Problem Sheet TBC | TBC |
+| [Submit Python fundamentals problem sheet solutions repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNFVLMzNUQUMxMlBITTE1QVJYUlVVR1ozRi4u) | 6th October 2017, 24:00 |
+| [Submit MNIST problem sheet solutions repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNEgwMzhGSVNaVTQ3RTBNWERMRzBKNktWUy4u) | 20th October 2017, 24:00 |
 | Problem Sheet TBC | TBC |
 | Problem Sheet TBC | TBC |
 | Project TBC       | TBC |
