@@ -1,12 +1,13 @@
 # Problem set: Read the MNIST data files
 These problems relate to the famous [MNIST](http://yann.lecun.com/exdb/mnist/) data set.
 Save your work as a Python file, or a collection of Python files.
-Please them in a single repository on [GitHub](https://github.com/), complete with a README.
+Place them in a single repository on [GitHub](https://github.com/), complete with a README.
 The files are in a bespoke format, as described on the [website](http://yann.lecun.com/exdb/mnist/).
 
 
 ## 1. Read the data files
-Download the image and label files. Have Python decompress and read them byte by byte into appropriate data structures in memory.
+Download the image and label files.
+Have Python decompress and read them byte by byte into appropriate data structures in memory.
 
 
 ## 2. Output an image to the console

@@ -17,7 +17,7 @@ You can contact me at [ian.mcloughlin@gmit.ie](mailto:ian.mcloughlin@gmit.ie).
 ## Problem sets
 
 1. [Python fundamentals](problems/python-fundamentals.md)
-2. [MNIST data sets](problems/digits.md)
+2. [MNIST data sets](problems/mnist.md)
 
 
 
