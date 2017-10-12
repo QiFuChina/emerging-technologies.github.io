@@ -38,8 +38,7 @@ Use the [seaborn](http://seaborn.pydata.org/examples/scatterplot_matrix.html) li
 
 ## 6. Fit a line
 
-Use numpy to select only the data points where species is setosa.
-Fit a straight line to the variables petal length and petal width.
+Fit a straight line to the variables petal length and petal width for the whole data set.
 Plot the data points in a scatter plot with the best fit line shown.
 
 
@@ -48,8 +47,19 @@ Plot the data points in a scatter plot with the best fit line shown.
 Calculate the R-squared value for your line above.
 
 
+## 8. Fit another line
 
-## 8. Use gradient descent
+Use numpy to select only the data points where species is setosa.
+Fit a straight line to the variables petal length and petal width.
+Plot the data points in a scatter plot with the best fit line shown.
+
+
+## 9. Calculate the R-squared value
+
+Calculate the R-squared value for your line above.
+
+
+## 10. Use gradient descent
 
 Use gradient descent to approximate the best fit line for the petal length and petal width setosa values.
 Compare the outputs to your calculations above.
