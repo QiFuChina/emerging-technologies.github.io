@@ -11,7 +11,11 @@ You can contact me at [ian.mcloughlin@gmit.ie](mailto:ian.mcloughlin@gmit.ie).
 2. [Python fundamentals](notebooks/python-fundamentals.ipynb)
 3. [Simple Linear Regression](notebooks/simple-linear-regression.ipynb)
 4. [Gradient descent](notebooks/gradient-descent.ipynb)
-5. [Getting Started with Tensorflow](notebooks/tensorflow-getting-started.ipynb)
+5. [Jupyter notebooks video](https://youtu.be/1P5gHtyKU2Q)
+6. [Numpy video](https://youtu.be/OK4j_r3EdxM)
+7. [Matplotlib video](https://youtu.be/Uf2UR9nCyVY)
+8. [Getting Started with Tensorflow](notebooks/tensorflow-getting-started.ipynb)
+
 
 ## Project
 
