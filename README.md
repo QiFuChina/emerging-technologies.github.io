@@ -26,7 +26,8 @@ You can contact me at [ian.mcloughlin@gmit.ie](mailto:ian.mcloughlin@gmit.ie).
 
 1. [Python fundamentals](problems/python-fundamentals.md)
 2. [MNIST data sets](problems/mnist.md)
-2. [Jupyter, numpy and pyplot](problems/jupyter.md)
+3. [Jupyter, numpy and pyplot](problems/jupyter.md)
+4. [Tensorflow](problems/tensorflow.md)
 
 
 
@@ -38,10 +39,10 @@ You will be asked to enter your GMIT account details to access the submission fo
 
 | Submission link | Deadline |
 | ----------------|----------|
-| [Submit Python fundamentals problem sheet solutions repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNFVLMzNUQUMxMlBITTE1QVJYUlVVR1ozRi4u) | 6th October 2017, 24:00 |
-| [Submit MNIST problem sheet solutions repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNEgwMzhGSVNaVTQ3RTBNWERMRzBKNktWUy4u) | 20th October 2017, 24:00 |
-| [Submit jupyter, numpy and pyplot problem sheet solutions repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUQlRZUTRDTllDMlowUENKUTRNSEtTTEg3RS4u) | 27th October 2017, 24:00 |
-| Problem Sheet TBC | TBC |
+| [Submit Python fundamentals problem set solutions repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNFVLMzNUQUMxMlBITTE1QVJYUlVVR1ozRi4u) | 6th October 2017, 24:00 |
+| [Submit MNIST problem set solutions repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNEgwMzhGSVNaVTQ3RTBNWERMRzBKNktWUy4u) | 20th October 2017, 24:00 |
+| [Submit jupyter, numpy and pyplot problem set solutions repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUQlRZUTRDTllDMlowUENKUTRNSEtTTEg3RS4u) | 27th October 2017, 24:00 |
+| [Submit Tensorflow problem set solutions repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNkFKTjFZSDk3N0EyMTFESDhSM1haNkVZQy4u) | 24th November 2017, 24:00 |
 | [Submit project repository](https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUNFBXODI1V09XSjFINDBDTUdaUkZSMzBPSy4u) | 1st December 2017, 24:00 |
 
 
