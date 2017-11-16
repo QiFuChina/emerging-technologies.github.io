@@ -15,6 +15,7 @@ You can contact me at [ian.mcloughlin@gmit.ie](mailto:ian.mcloughlin@gmit.ie).
 6. [Numpy video](https://youtu.be/OK4j_r3EdxM)
 7. [Matplotlib video](https://youtu.be/Uf2UR9nCyVY)
 8. [Getting Started with Tensorflow](notebooks/tensorflow-getting-started.ipynb)
+9. [Keras example with Iris data set repository](https://github.com/emerging-technologies/keras-iris)
 
 
 ## Project
